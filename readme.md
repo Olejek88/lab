@@ -1,0 +1,1 @@
+Insulator laboratory test management system. Designed for the I-7188 controller, and is intended for automatic control of the system for regulating the volume and temperature of water in the tanks, for metering water consumption. (MiniOS7 OS, C language, Weintek operator panel (EB8000)).
